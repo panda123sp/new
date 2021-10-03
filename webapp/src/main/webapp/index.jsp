@@ -1,5 +1,5 @@
 <h1> Hello, Welcome to DevOps Project !!   </h1>
-<h2> First project submitted by samir panda .. :)  </h2>
+<h2> First project submitted by samir  .. :)  </h2>
 This is a new line to verify Tomcat integration and new WAR file
 
 New line added
